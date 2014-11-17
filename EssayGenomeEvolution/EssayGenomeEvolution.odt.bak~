@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="106" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.0" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Mon Nov 17 16:34:55 2014
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">2014-11-17T09:40:11.423935714</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+<t  s="styles.xml"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/odf#StylesFile</t>
+<t  s="content.xml"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/odf#ContentFile</t>
+<t  s="manifest.rdf"  p="http://docs.oasis-open.org/ns/office/1.2/meta/pkg#hasPart"  objecttype="1"  xsdtype=""  >styles.xml</t>
+<t  s="manifest.rdf"  p="http://docs.oasis-open.org/ns/office/1.2/meta/pkg#hasPart"  objecttype="1"  xsdtype=""  >content.xml</t>
+<t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
+</rdf>
+<history version="20" edit-time="4499" last-saved="1416238495" uid="18600ff0-6e65-11e4-9838-da8af8be09ba">
+<version id="20" started="1416234422" uid="47d682b4-6e6f-11e4-9838-da8af8be09ba" auto="0" top-xid="90"/>
+</history>
+<styles>
+<s type="P" name="Heading 1" basedon="Heading" followedby="Text body" props="margin-top:0.1665in; font-size:18pt; margin-bottom:0.0835in; font-weight:bold"/>
+<s type="P" name="Heading" basedon="Normal" followedby="Text body" props="margin-top:0.1665in; keep-with-next:yes; margin-bottom:0.0835in; font-family:Liberation Sans; font-size:14pt"/>
+<s type="P" name="Normal" props="default-tab-interval:0.4925in"/>
+<s type="P" name="Text body" basedon="Normal" followedby="Text body" props="margin-top:0in; line-height:1.200000; margin-bottom:0.0972in"/>
+<s type="P" name="Heading 2" basedon="Heading" followedby="Text body" props="margin-top:0.139in; font-size:16pt; margin-bottom:0.0835in; font-weight:bold"/>
+<s type="P" name="Caption" basedon="Normal" followedby="Caption" props="margin-top:0.0835in; font-size:12pt; margin-bottom:0.0835in; font-style:italic"/>
+<s type="P" name="Contents 1" basedon="Normal" followedby="Normal" props="text-indent:-0.300000in; margin-left:0.500000in"/>
+<s type="P" name="Contents 2" basedon="Normal" followedby="Normal" props="text-indent:-0.300000in; margin-left:1.000000in"/>
+<s type="P" name="Contents 3" basedon="Normal" followedby="Normal" props="text-indent:-0.300000in; margin-left:1.500000in"/>
+<s type="P" name="Contents 4" basedon="Normal" followedby="Normal" props="text-indent:-0.300000in; margin-left:2.000000in"/>
+<s type="P" name="Heading 3" basedon="Heading" followedby="Text body" props="font-weight:bold; margin-top:0.0972in; font-size:14pt; margin-bottom:0.0835in; color:#808080"/>
+<s type="P" name="Quotations" basedon="Normal" followedby="Quotations" props="margin-top:0in; margin-bottom:0.1965in; text-indent:0in; margin-left:0.3937in; margin-right:0.3937in"/>
+<s type="P" name="Subtitle" basedon="Heading" followedby="Text body" props="text-align:center; margin-top:0.0417in; font-size:18pt; margin-bottom:0.0835in"/>
+<s type="P" name="Title" basedon="Heading" followedby="Text body" props="text-align:center; font-weight:bold; font-size:28pt"/>
+</styles>
+<lists>
+<l id="1000" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
+</lists>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="20" props="page-margin-right:0.7874in; page-width:210.000000mm; page-margin-left:0.7874in; page-orientation:portrait; page-margin-bottom:0.7874in; page-margin-top:0.7874in; page-height:297.000000mm">
+<p xid="21"></p>
+<p style="Heading 1" xid="22">My favorite insights</p>
+<p style="Text body" xid="23"><c></c></p>
+<p style="Text body" xid="24">In this essay I want to highlight my favorite insights as stand-alone stories (they can be read in any order). They are my favorite insights, as these are controversial and/or new.</p>
+<p level="1" listid="1000" parentid="0" style="Text body" xid="6" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Arial"><c props="list-tag:1001"></c><field type="list_label" xid="7" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	(</c>The unexpected order in DNA<c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Bullet List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">)</c></p>
+<p level="1" listid="1000" parentid="0" style="Text body" xid="99" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Arial"><c props="list-tag:1053"></c><field type="list_label" xid="98" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	(The impact of horizontal gene transfer)</c></p>
+<p level="1" listid="1000" parentid="0" style="Text body" xid="96" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Arial"><c props="width:0in; list-tag:1054; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; text-position:normal; list-style:Bullet List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; color:000000; font-stretch:normal"></c><field type="list_label" xid="97" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	The evolution of evolvability</c></p>
+<p level="1" listid="1000" style="Text body" xid="3" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Arial"><c props="list-tag:1002"></c><field type="list_label" xid="8" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:None; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:None; font-stretch:normal">	</c>Evidence for group selection</p>
+<p level="1" listid="1000" style="Text body" xid="4" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Arial"><c props="list-tag:1003"></c><field type="list_label" xid="9" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c>Evidence for Lamarckian genetics</p>
+<p level="1" listid="1000" style="Text body" xid="100" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Arial"><c props="list-tag:1115"></c><field type="list_label" xid="101" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	Prokaryotes having an immune system</c></p>
+<p level="1" listid="1000" style="Text body" xid="5" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Arial"><c props="list-tag:1004"></c><field type="list_label" xid="10" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:None; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:None; font-stretch:normal">	</c>The term ‘virus empire’</p>
+<p style="Text body" xid="15" props="text-indent:0in; margin-left:0in"><c props="list-tag:1009"></c></p>
+<p style="Heading 2" xid="18" props="text-indent:0in; margin-left:0in"><c props="lang:en-US; text-position:normal; text-decoration:none; color:000000; font-style:normal">The unexpected order in DNA</c></p>
+<p style="Text body" xid="17" props="text-indent:0in; margin-left:0in"><c></c><c>A null-hypothesis assumes DNA has no order in it: each nucleotide is expected to be present at equal ratio’s and genes are inserted randomly within the DNA.</c></p>
+<p style="Text body" xid="25">One might expect a genome to be messy, from the assumption that DNA is inserted into a genome at a random position. </p>
+<p style="Text body" xid="26">Chance and selection in organizing the genome</p>
+<p style="Heading 2" xid="27">Evidence for group selection</p>
+<p style="Heading 2" xid="19"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">In prokaryotes, genes can be acquired vertically (from the ancestor) and horizontally. In the latter, called horizontal gene transfer (HGT), a cell can obtain DNA (1) in free-floating form from the environment (transformation), (2) from another cell by direct contact (conjugation), (3) from infection by bacteriophages (transduction), and (4) from gene transfer agents (GTAs) [4]. GTAs are, in contrast to transduction, friendly constructs that do not cause the cell to lyse, and appear to only serve the purpose of HGT. In other words: GTAs serve the sharing of DNA, with no evidence that the donor receives any direct benefit from this. For a laysman this feels intuitive: the donor serves the interest of its species as a whole! This concept, called group selection, is, however, very controversial in current biology [6], where the individual is claimed to be the unit of selection. But, in my humble opinion, group selection is not the only explanation possible: the first alternative explanation is that GTAs might yield a higher indirect fitness, as prokaryotes are often close to their relatives. This is supported by evidence that HGT (in general) is more common amongst closely related species [7]. The second alternative explanation for the seemingly altruistic nature of GTAs could be found by following the line of thought of the Selfish Gene, where a GTA is simply an additional way for a gene to spread. I find it interesting to find out unambiguously in which of the three (if not more) explanations GTAs fall into. </c></p>
+<p style="Heading 2" xid="28">Evidence for Lamarckian genetics</p>
+<p style="Text body" xid="92" props="text-align:left; dom-dir:ltr"><c props="font-style:italic">Tout ce que la nature a fait acquérir ou perdre aux individus par l' influence des circonstances [...], elle le conserve par la génération aux nouveaux individus. Lamarcke [9] </c><c props="font-style:normal">(English translation: </c><c>all the acquisitions or losses wrought by nature on individuals, through the influence of the environment [...]; all these are preserved by reproduction to the new individuals which arise)</c></p>
+<p style="Text body" xid="93"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Lamarckianism (the Second Law of  Lamarcke is quoted above) has had its share of critics. The well-known example of the giraffe’s long neck, that the giraffe would have aqcuired by stretching it, passing the stretched neck to the next generation. Nowadays, this example is more often explained by natural and/or sexual selection. But there do have risen examples that are inherited as Lamarck imagined. One example is the methylation of DNA, which </c></p>
+<p style="Heading 2" xid="102"><c props="lang:en-US; text-position:normal; text-decoration:none; color:000000; font-style:normal"></c><c props="lang:en-US; text-position:normal; text-decoration:none; color:000000; font-style:normal">The term ‘virus empire’</c></p>
+<p style="Text body" xid="29">Bacteria </p>
+<p style="Text body" xid="30"><c></c></p>
+<p style="Text body" xid="31" props="text-align:left; dom-dir:ltr">Genome evolution</p>
+<p style="Text body" xid="32" props="text-align:left; dom-dir:ltr">   Bacteria</p>
+<p style="Text body" xid="33" props="text-align:left; dom-dir:ltr">       Computer</p>
+<p style="Text body" xid="34" props="text-align:left; dom-dir:ltr">           DNA = program</p>
+<p style="Text body" xid="35" props="text-align:left; dom-dir:ltr">           non-DNA = OS</p>
+<p style="Text body" xid="36" props="text-align:left; dom-dir:ltr">       Holy grail of microbial ecology</p>
+<p style="Text body" xid="37" props="text-align:left; dom-dir:ltr">           Who are there?</p>
+<p style="Text body" xid="38" props="text-align:left; dom-dir:ltr">           What do they do?</p>
+<p style="Text body" xid="39" props="text-align:left; dom-dir:ltr">           With whom do they do it?</p>
+<p style="Text body" xid="40" props="text-align:left; dom-dir:ltr">       Species</p>
+<p style="Text body" xid="41" props="text-align:left; dom-dir:ltr">           Bacterial species definition</p>
+<p style="Text body" xid="42" props="text-align:left; dom-dir:ltr">           Fitness</p>
+<p style="Text body" xid="43" props="text-align:left; dom-dir:ltr">               High metabolic flux</p>
+<p style="Text body" xid="44" props="text-align:left; dom-dir:ltr">               Be flexible</p>
+<p style="Text body" xid="45" props="text-align:left; dom-dir:ltr">               Be hardy</p>
+<p style="Text body" xid="46" props="text-align:left; dom-dir:ltr">               Lifestyle</p>
+<p style="Text body" xid="47" props="text-align:left; dom-dir:ltr">                   Planktonic</p>
+<p style="Text body" xid="48" props="text-align:left; dom-dir:ltr">                   Within host</p>
+<p style="Text body" xid="49" props="text-align:left; dom-dir:ltr">                   Gradient</p>
+<p style="Text body" xid="50" props="text-align:left; dom-dir:ltr">   Horizontal gene transfer</p>
+<p style="Text body" xid="51" props="text-align:left; dom-dir:ltr">   Lateral gene transfer</p>
+<p style="Text body" xid="52" props="text-align:left; dom-dir:ltr">   Genomics</p>
+<p style="Text body" xid="53" props="text-align:left; dom-dir:ltr">   Genome</p>
+<p style="Text body" xid="54" props="text-align:left; dom-dir:ltr">       Architecture</p>
+<p style="Text body" xid="55" props="text-align:left; dom-dir:ltr">           One origin</p>
+<p style="Text body" xid="56" props="text-align:left; dom-dir:ltr">               Higher G+C content</p>
+<p style="Text body" xid="57" props="text-align:left; dom-dir:ltr">               Lower evolutionary rate</p>
+<p style="Text body" xid="58" props="text-align:left; dom-dir:ltr">           One terminus</p>
+<p style="Text body" xid="59" props="text-align:left; dom-dir:ltr">           Vital genes prefer leading strand</p>
+<p style="Text body" xid="60" props="text-align:left; dom-dir:ltr">           Preference for A+T</p>
+<p style="Text body" xid="61" props="text-align:left; dom-dir:ltr">           Size</p>
+<p style="Text body" xid="62" props="text-align:left; dom-dir:ltr">               Small</p>
+<p style="Text body" xid="63" props="text-align:left; dom-dir:ltr">                   Most viral insertions will be lethal</p>
+<p style="Text body" xid="64" props="text-align:left; dom-dir:ltr">                   Loss of genes by dependence on host</p>
+<p style="Text body" xid="65" props="text-align:left; dom-dir:ltr">               Big</p>
+<p style="Text body" xid="66" props="text-align:left; dom-dir:ltr">                   Viral insertions have higher chance of success</p>
+<p style="Text body" xid="67" props="text-align:left; dom-dir:ltr">                   Eukaryotes</p>
+<p style="Text body" xid="68" props="text-align:left; dom-dir:ltr">                   Prokaryotes in unstable invironments</p>
+<p style="Text body" xid="69" props="text-align:left; dom-dir:ltr">                   Prokaryotes with biphasic lifestyle</p>
+<p style="Text body" xid="70" props="text-align:left; dom-dir:ltr">           Constraints</p>
+<p style="Text body" xid="71" props="text-align:left; dom-dir:ltr">               Supercoiling</p>
+<p style="Text body" xid="72" props="text-align:left; dom-dir:ltr">               Domain structure</p>
+<p style="Text body" xid="73" props="text-align:left; dom-dir:ltr">               Attachment to specific sites</p>
+<p style="Text body" xid="74" props="text-align:left; dom-dir:ltr">               Fuzzy motifs</p>
+<p style="Text body" xid="75" props="text-align:left; dom-dir:ltr">       Core genome</p>
+<p style="Text body" xid="76" props="text-align:left; dom-dir:ltr">       Pan genome</p>
+<p style="Text body" xid="77" props="text-align:left; dom-dir:ltr">           Open</p>
+<p style="Text body" xid="78" props="text-align:left; dom-dir:ltr">           Closed</p>
+<p style="Text body" xid="79" props="text-align:left; dom-dir:ltr">       Genes</p>
+<p style="Text body" xid="80" props="text-align:left; dom-dir:ltr">           Gain</p>
+<p style="Text body" xid="81" props="text-align:left; dom-dir:ltr">               Duplicatation</p>
+<p style="Text body" xid="82" props="text-align:left; dom-dir:ltr">           Loss</p>
+<p style="Text body" xid="83" props="text-align:left; dom-dir:ltr">               Pseudogene</p>
+<p style="Text body" xid="84" props="text-align:left; dom-dir:ltr">               Gene excision</p>
+<p style="Text body" xid="85" props="text-align:left; dom-dir:ltr">       Phylogeny</p>
+<p style="Text body" xid="86" props="text-align:left; dom-dir:ltr">       Reflects history</p>
+<p style="Text body" xid="87" props="text-align:left; dom-dir:ltr">           16S rRNA</p>
+<p style="Text body" xid="88" props="text-align:left; dom-dir:ltr">           18S rRNA</p>
+<p style="Text body" xid="89" props="text-align:left; dom-dir:ltr">   Experimental</p>
+<p style="Text body" xid="90" props="text-align:left; dom-dir:ltr"></p>
+<p style="Text body" xid="105" props="text-align:left; dom-dir:ltr"></p>
+<p style="Text body" xid="106" props="text-align:left; dom-dir:ltr">[9] Jean-Baptiste Lamarck Zoological Philosophy trans. Hugh Elliot, 1914, p.113</p>
+</section>
+</abiword>
