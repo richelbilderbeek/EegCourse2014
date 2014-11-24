@@ -512,7 +512,7 @@ D is closer to C then to A
 \end_layout
 
 \begin_layout Chapter
-Types of things being depicted
+Other things
 \end_layout
 
 \begin_layout Standard
@@ -527,7 +527,19 @@ Overview
 \end_layout
 
 \begin_layout Itemize
+Quiz
+\end_layout
+
+\begin_layout Itemize
 Types of things being depicted
+\end_layout
+
+\begin_layout Itemize
+Types of things not being depicted
+\end_layout
+
+\begin_layout Itemize
+Bootstrap values
 \end_layout
 
 \begin_layout Standard
@@ -543,7 +555,37 @@ Quiz
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename KoEtAl2002.png
+	filename VirusExtant.jpg
+	lyxscale 10
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Phylogeny
+\end_layout
+
+\begin_layout Standard
+'There are no biological forces acting in this (boring) system'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Quiz
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KoEtAl2002WithMark.png
 	lyxscale 50
 	scale 25
 
@@ -610,6 +652,10 @@ Gene tree: gene sequences from different species
 \end_layout
 
 \begin_layout Itemize
+Phylogenetic tree: phylogeny derived from a gene tree
+\end_layout
+
+\begin_layout Itemize
 Gene genealogy: gene sequences within species
 \end_layout
 
@@ -621,20 +667,135 @@ Gene genealogy: gene sequences within species
 \end_layout
 
 \begin_layout Section
-Extant and exinct
+Types of things not being depicted
+\end_layout
+
+\begin_layout Itemize
+Phylograms commonly deal with extant species
 \end_layout
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Felsenstein2004_33_2a.jpg
+	filename VirusExtant.jpg
 	lyxscale 10
-	scale 8
+	scale 10
 
 \end_inset
 
- 
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Types of things not being depicted
+\end_layout
+
+\begin_layout Itemize
+That does not mean nothing is going on!
+\end_layout
+
+\begin_layout Standard
 \begin_inset Graphics
-	filename Felsenstein2004_33_2b.jpg
+	filename VirusExtinct.jpg
+	lyxscale 10
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Bootstrap values
+\end_layout
+
+\begin_layout Itemize
+Inferring a dendrogram is hard
+\end_layout
+
+\begin_layout Itemize
+Trick: generate multiple candidates, then count these candidates
+\end_layout
+
+\begin_layout Itemize
+Bootstrapping shows how often the candates agree
+\end_layout
+
+\begin_layout Itemize
+Threshold for publication: about 70%
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Felsenstein2004_20_3c.jpg
+	lyxscale 10
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Bootstrap values: generate candidates
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Felsenstein2004_20_3a.jpg
+	lyxscale 7
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Bootstrap values: count agreement
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Felsenstein2004_20_3a.jpg
+	lyxscale 7
+	scale 7
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Felsenstein2004_20_3c.jpg
 	lyxscale 10
 	scale 10
 
@@ -651,7 +812,7 @@ Extant and exinct
 \end_layout
 
 \begin_layout Chapter
-Types of things being depicted
+What phylogenies can tell
 \end_layout
 
 \begin_layout Standard
@@ -662,11 +823,54 @@ Types of things being depicted
 \end_layout
 
 \begin_layout Section
-Special dentrograms
+Overview
 \end_layout
 
 \begin_layout Itemize
-What are those values above the taxa?
+Quiz
+\end_layout
+
+\begin_layout Itemize
+What phylogenies can tell
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Quiz
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ConcertedEvolutionPhylogeny1.jpg
+	lyxscale 10
+	scale 8
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename ConcertedEvolutionPhylogeny2.jpg
+	lyxscale 10
+	scale 8
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gene trees of two genes (A and B) in two species (1 and 2) measured at two
+ points in time
+\end_layout
+
+\begin_layout Standard
+How can this be?
 \end_layout
 
 \begin_layout Standard
@@ -702,56 +906,6 @@ Type of evolution: concerted, divergent, by birth-death process
 
 \begin_layout Itemize
 Mutation rate
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Neutrality
-\end_layout
-
-\begin_layout Standard
-In Kirkpatrick and Slatkin (1993), authors reviewed six measures of tree
- asymmetry based solely on the tree topology.
- They studied the power of these measures to be used as a test for deviation
- of trees from neutral predictions.
- A similar analysis was carried out in Maia et al.
- (2004).
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Mutation speed
-\end_layout
-
-\begin_layout Itemize
-Not all genes have same mutation speed
-\end_layout
-
-\begin_layout Itemize
-Assumes neutral selection
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename MutationSpeed.jpg
-	lyxscale 10
-	scale 10
-
-\end_inset
-
- 
 \end_layout
 
 \begin_layout Standard
@@ -1350,6 +1504,56 @@ by contrast, in a community of Old World leaf warblers, which like anoles
  Evolution of ecological differences in the Old World leaf warblers.
  Nature 355, 817–821 (1992).
  CANNOT GET
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Neutrality
+\end_layout
+
+\begin_layout Standard
+In Kirkpatrick and Slatkin (1993), authors reviewed six measures of tree
+ asymmetry based solely on the tree topology.
+ They studied the power of these measures to be used as a test for deviation
+ of trees from neutral predictions.
+ A similar analysis was carried out in Maia et al.
+ (2004).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Mutation speed
+\end_layout
+
+\begin_layout Itemize
+Not all genes have same mutation speed
+\end_layout
+
+\begin_layout Itemize
+Assumes neutral selection
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename MutationSpeed.jpg
+	lyxscale 10
+	scale 10
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
