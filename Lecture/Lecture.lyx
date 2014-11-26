@@ -678,7 +678,8 @@ Cladogram from molecular data
 \end_layout
 
 \begin_layout Standard
-'Humans are evolutionary as close to chimps as gymnosperms are to angiosperms'
+'Thus, humans are evolutionary as close to chimps as gymnosperms are to
+ angiosperms'
 \end_layout
 
 \begin_layout Standard
@@ -1107,7 +1108,8 @@ Cladogram from molecular data
 \end_layout
 
 \begin_layout Standard
-'Humans are evolutionary as close to chimps as gymnosperms are to angiosperms'
+'Thus, humans are evolutionary as close to chimps as gymnosperms are to
+ angiosperms'
 \end_layout
 
 \begin_layout Enumerate
@@ -1170,7 +1172,7 @@ Phylogram
 \end_layout
 
 \begin_layout Standard
-'There are no biological forces acting in this (boring) system'
+'Thus, there are no biological forces acting in this (boring) system'
 \end_layout
 
 \begin_layout Standard
@@ -1279,9 +1281,9 @@ Phylograms commonly deal with extant species
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename VirusExtant.jpg
-	lyxscale 40
-	scale 40
+	filename Simplest.jpg
+	lyxscale 30
+	scale 30
 
 \end_inset
 
@@ -1386,7 +1388,7 @@ Bootstrap values
 \end_layout
 
 \begin_layout Itemize
-Inferring a phylogeny is hard
+Inferring a phylogeny is (NP-)hard
 \end_layout
 
 \begin_layout Itemize
@@ -1399,17 +1401,6 @@ Bootstrapping shows how often the candates agree
 
 \begin_layout Itemize
 Tip: threshold for publication: about 70%
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Felsenstein2004_20_3c.jpg
-	lyxscale 10
-	scale 10
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1447,20 +1438,9 @@ Bootstrap values: count agreement
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Felsenstein2004_20_3a.jpg
-	lyxscale 28
-	scale 28
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
 	filename Felsenstein2004_20_3c.jpg
-	lyxscale 10
-	scale 10
+	lyxscale 20
+	scale 20
 
 \end_inset
 
@@ -1488,14 +1468,6 @@ Adapted from Grenfell et al, 2004, Science
 
 \end_layout
 
-\begin_layout Itemize
-There can be much going on!
-\end_layout
-
-\begin_layout Itemize
-Need more information
-\end_layout
-
 \begin_layout Standard
 \begin_inset Graphics
 	filename Simplest.jpg
@@ -1505,6 +1477,10 @@ Need more information
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Phylogram
 \end_layout
 
 \begin_layout Standard
@@ -1544,27 +1520,7 @@ Ko et al, 2003, Journal of molecular evolution
 \end_layout
 
 \begin_layout Standard
-In only 68% of the phylogeny candidates, 'mim
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Drosphila mimetica
-\end_layout
-
-\end_inset
-
- and lut
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Drosphila lutescens
-\end_layout
-
-\end_inset
-
- are put on the same clade
+What does the 68 mean?
 \end_layout
 
 \begin_layout Standard
