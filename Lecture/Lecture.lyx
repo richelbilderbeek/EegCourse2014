@@ -90,6 +90,100 @@ Phylogenies and community structure
 \end_layout
 
 \begin_layout Section
+Question
+\end_layout
+
+\begin_layout Itemize
+Where do you associate the word 'phylogeny' with? 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+My association with 'phylogeny'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename PhylogeniesAreDangerousAndUnsexy.jpg
+	lyxscale 20
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Phylogenies can be unsexy
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename VirusExtant.jpg
+	lyxscale 10
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Gene trees can be viscious
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ConcertedEvolutionPhylogeny1.jpg
+	lyxscale 10
+	scale 8
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename ConcertedEvolutionPhylogeny2.jpg
+	lyxscale 10
+	scale 8
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gene trees of two genes (A and B) in two species (1 and 2) measured at two
+ points in time
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Teaching goals
 \end_layout
 
@@ -121,6 +215,14 @@ Planning
 \end_layout
 
 \begin_layout Itemize
+History
+\end_layout
+
+\begin_layout Itemize
+Current problem/idea
+\end_layout
+
+\begin_layout Itemize
 Basic tree representations of data
 \end_layout
 
@@ -134,6 +236,262 @@ Advanced tree representations of data
 
 \begin_layout Itemize
 Phylogenies and inferring species communies
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+History
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+First phylogeny
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Darwin, 1859
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Darwin_Tree_1837.png
+	lyxscale 20
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Tree of life
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Haeckel, 1859
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Haeckel1879.png
+	lyxscale 20
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Modern tree of life
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ciccarelli, 2006, Science
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Hillis plot
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Ciccarelli2006.svg
+	lyxscale 20
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Horizontal gene transfer
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Smets & Barkay, 2005, Nature Reviews Microbiology
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename SmetsAndBarkay2005.jpg
+	lyxscale 20
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ring of life
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Simonson et al, 2005, PNAS
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Unrooted
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename SimonsonEtAl2005PNAS.jpg
+	lyxscale 20
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Current idea/problem
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Current idea
+\end_layout
+
+\begin_layout Itemize
+Omics generate data
+\end_layout
+
+\begin_layout Itemize
+Data can be put in a tree
+\end_layout
+
+\begin_layout Itemize
+Tree can be used to infer which samples are closest
+\end_layout
+
+\begin_layout Itemize
+...
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Current idea
+\end_layout
+
+\begin_layout Itemize
+Omics generate data
+\end_layout
+
+\begin_layout Itemize
+Data can be put in a tree
+\end_layout
+
+\begin_layout Itemize
+Tree can be used to infer which samples are closest
+\end_layout
+
+\begin_layout Itemize
+And that's it?
 \end_layout
 
 \begin_layout Standard
@@ -271,23 +629,159 @@ Most general term for any tree-like clustering
 Dendrogram types
 \end_layout
 
-\begin_layout Itemize
-Cladogram: branch lengths have no meaning
-\end_layout
-
-\begin_layout Itemize
-Phylogram: branch lengths propertionally to character change
-\end_layout
-
-\begin_layout Itemize
-Chronogram: branch lengths propertionally to time
-\end_layout
-
 \begin_layout Standard
-\begin_inset Graphics
-	filename DendrogramHierarchy.jpg
-	lyxscale 10
-	scale 6
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Branch length
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Branch width
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Cladogram
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Phylogram
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+character change
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Chronogram
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+time
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Spindle diagram
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+time
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+number of species
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
 
 \end_inset
 
@@ -418,6 +912,38 @@ Chronogram
 	filename Chronogram.jpg
 	lyxscale 10
 	scale 8
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Spindle diagram
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://commons.wikimedia.org/wiki/User:Petter_B%C3%B8ckman
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Spindle_diagram.jpg
+	lyxscale 25
+	scale 25
 
 \end_inset
 
@@ -1638,6 +2164,50 @@ Keddy PA.
  1992.
  Assembly and response rules – 2 goals for predictive community ecology.
  Journal of Vegetation Science 3 : 157 – 164.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+What is this?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Joke.jpg
+	lyxscale 10
+	scale 10
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+What is this?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename VirusExtant.jpg
+	lyxscale 10
+	scale 10
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
