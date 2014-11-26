@@ -365,7 +365,7 @@ History
 \end_layout
 
 \begin_layout Itemize
-Current problem/idea
+Work in progress
 \end_layout
 
 \begin_layout Itemize
@@ -583,7 +583,7 @@ Unrooted
 \end_layout
 
 \begin_layout Chapter
-Current idea/problem
+Work in progress
 \end_layout
 
 \begin_layout Standard
@@ -625,19 +625,36 @@ Current idea
 \end_layout
 
 \begin_layout Itemize
-Omics generate data
+And that's it?
 \end_layout
 
-\begin_layout Itemize
-Data can be put in a tree
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
-\begin_layout Itemize
-Tree can be used to infer which samples are closest
+\begin_layout Section
+Old idea
 \end_layout
 
 \begin_layout Itemize
 And that's it?
+\end_layout
+
+\begin_layout Itemize
+(actually, this idea predates the omics
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Felsenstein, 1985, The American Naturalist
+\end_layout
+
+\end_inset
+
+)
 \end_layout
 
 \begin_layout Standard
@@ -1388,7 +1405,25 @@ Bootstrap values
 \end_layout
 
 \begin_layout Itemize
-Inferring a phylogeny is (NP-)hard
+Inferring a phylogeny is hard
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+There are 
+\begin_inset Formula $(2n-3)!/2^{n-1}(n-1)!$
+\end_inset
+
+ possible (rooted) trees for 
+\begin_inset Formula $n$
+\end_inset
+
+ samples (2M for 9 samples)
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -1542,25 +1577,6 @@ What phylogenies can tell
 \end_layout
 
 \begin_layout Section
-Overview
-\end_layout
-
-\begin_layout Itemize
-Quiz
-\end_layout
-
-\begin_layout Itemize
-What phylogenies can tell
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
 Quiz
 \end_layout
 
@@ -1635,16 +1651,12 @@ Mutation rate
 \end_layout
 
 \begin_layout Section
-Type of selection
-\end_layout
-
-\begin_layout Itemize
-Neutral, purifying, stabilizing
-\begin_inset Note Note
+Population growth
+\begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Hartl & Clark, 361
+Grenfell et al, 2004, Science
 \end_layout
 
 \end_inset
@@ -1653,58 +1665,210 @@ Hartl & Clark, 361
 \end_layout
 
 \begin_layout Standard
-\begin_inset Graphics
-	filename SelectionNeutral.jpg
-	lyxscale 10
-	scale 10
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
 
-\end_inset
-
- 
-\begin_inset Graphics
-	filename SelectionPurifying.jpg
-	lyxscale 10
-	scale 10
-
-\end_inset
-
- 
-\begin_inset Graphics
-	filename SelectionStabilizing.jpg
-	lyxscale 10
-	scale 10
-
-\end_inset
-
-
+\begin_layout Plain Layout
+Constant
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage newpage
 \end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
 
-
+\begin_layout Plain Layout
+Exponentially growing
 \end_layout
 
-\begin_layout Section
-Population growth
-\end_layout
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Graphics
-	filename Viral_Phylodynamics_Wm_population_size_bw.svg
+	filename GrenfellEtAl2004ScienceConstant.png
 	lyxscale 25
 	scale 25
 
 \end_inset
 
 
-\begin_inset Note Note
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename GrenfellEtAl2004ScienceExponential.png
+	lyxscale 25
+	scale 25
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Type of selection
+\begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-https://en.wikipedia.org/wiki/Viral_phylodynamics
+Hartl & Clark, 2007, Principles of population genetics, p.
+ 361
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Neutral
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Purifying
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Stabilizing
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename SelectionNeutral.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename SelectionPurifying.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename SelectionStabilizing.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Living fossils in unchanged niches
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Birth weight
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
 
 \end_inset
 
@@ -1724,50 +1888,43 @@ Phylogenies that change
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ConcertedEvolutionGenes.jpg
-	lyxscale 10
-	scale 5
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename ConcertedEvolutionPhylogenies.jpg
-	lyxscale 10
-	scale 5
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Phylogenies that change
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename ConcertedEvolutionGenes.jpg
-	lyxscale 10
-	scale 5
+	filename ConcertedEvolutionPhylogeny1.jpg
+	lyxscale 40
+	scale 32
 
 \end_inset
 
  
 \begin_inset Graphics
-	filename ConcertedEvolutionPhylogenies.jpg
-	lyxscale 10
-	scale 5
+	filename ConcertedEvolutionPhylogeny2.jpg
+	lyxscale 40
+	scale 32
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gene trees of two genes (A and B) in two species (1 and 2) measured at two
+ points in time
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Phylogenies that change
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Example: globin genes
+\end_layout
 
 \end_inset
 
@@ -1777,8 +1934,56 @@ Phylogenies that change
 \begin_layout Standard
 \begin_inset Graphics
 	filename ConcertedEvolutionExplanation.jpg
-	lyxscale 10
-	scale 5
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename ConcertedEvolutionExplanation_t1.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Phylogenies that change
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Example: globin genes
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ConcertedEvolutionExplanation.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename ConcertedEvolutionExplanation_t2.jpg
+	lyxscale 40
+	scale 40
 
 \end_inset
 
