@@ -90,6 +90,65 @@ Phylogenies and community structure
 \end_layout
 
 \begin_layout Section
+Question
+\end_layout
+
+\begin_layout Itemize
+Where do you associate the word 'phylogeny' with?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+My initial association
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename MyInitialAssociations.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+My current association
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename PhylogeniesAreDangerousAndUnsexy.jpg
+	lyxscale 80
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Goal
 \end_layout
 
@@ -244,6 +303,16 @@ Wissler et al., 2011, BMC Evolutionary Biology
 \end_inset
 
 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+EST: Expressed Sequence tags
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -265,120 +334,6 @@ Wissler et al., 2011, BMC Evolutionary Biology
 \end_layout
 
 \begin_layout Section
-Question
-\end_layout
-
-\begin_layout Itemize
-Where do you associate the word 'phylogeny' with?
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-My association with 'phylogeny'
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename PhylogeniesAreDangerousAndUnsexy.jpg
-	lyxscale 80
-	scale 80
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Phylogenies can be unsexy
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Adapted from Grenfell et al, 2004, Science
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Simplest.jpg
-	lyxscale 40
-	scale 40
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Gene trees can be viscious
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Adapted from Hartl & Clarck, 2007, Principles of population genetics
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename ConcertedEvolutionPhylogeny1.jpg
-	lyxscale 40
-	scale 32
-
-\end_inset
-
- 
-\begin_inset Graphics
-	filename ConcertedEvolutionPhylogeny2.jpg
-	lyxscale 40
-	scale 32
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Gene trees of two genes (A and B) in two species (1 and 2) measured at two
- points in time
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
 Teaching goals
 \end_layout
 
@@ -387,15 +342,11 @@ Know the terms related to the word 'phylogeny'
 \end_layout
 
 \begin_layout Itemize
-Reading dendrograms
+Avoiding pitfalls in reading trees
 \end_layout
 
 \begin_layout Itemize
-What does a phylogeny show?
-\end_layout
-
-\begin_layout Itemize
-What can a phylogeny tell about species composition?
+What can we infer from a tree?
 \end_layout
 
 \begin_layout Standard
@@ -418,11 +369,11 @@ Current problem/idea
 \end_layout
 
 \begin_layout Itemize
-Basic tree representations of data
+Trees
 \end_layout
 
 \begin_layout Itemize
-Types of things being depicted
+What trees show
 \end_layout
 
 \begin_layout Itemize
@@ -500,8 +451,8 @@ Haeckel, 1859
 \begin_layout Standard
 \begin_inset Graphics
 	filename Haeckel1879.png
-	lyxscale 20
-	scale 20
+	lyxscale 40
+	scale 40
 
 \end_inset
 
@@ -542,8 +493,8 @@ Hillis plot
 \begin_layout Standard
 \begin_inset Graphics
 	filename Ciccarelli2006.svg
-	lyxscale 20
-	scale 20
+	lyxscale 40
+	scale 40
 
 \end_inset
 
@@ -574,8 +525,8 @@ Smets & Barkay, 2005, Nature Reviews Microbiology
 \begin_layout Standard
 \begin_inset Graphics
 	filename SmetsAndBarkay2005.jpg
-	lyxscale 20
-	scale 20
+	lyxscale 40
+	scale 80
 
 \end_inset
 
@@ -617,7 +568,7 @@ Unrooted
 \begin_inset Graphics
 	filename SimonsonEtAl2005PNAS.jpg
 	lyxscale 20
-	scale 20
+	scale 15
 
 \end_inset
 
@@ -697,30 +648,7 @@ And that's it?
 \end_layout
 
 \begin_layout Chapter
-Basic tree representations of data
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Overview
-\end_layout
-
-\begin_layout Itemize
-Types of tree representations
-\end_layout
-
-\begin_layout Itemize
-What is a phylogeny?
-\end_layout
-
-\begin_layout Itemize
-How to read a phylogeny? Or: how to deceive your audience
+Trees
 \end_layout
 
 \begin_layout Standard
@@ -761,36 +689,6 @@ Cladogram from molecular data
 \end_layout
 
 \begin_layout Section
-Quiz
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename weighted_cladogram.jpg
-	lyxscale 40
-	scale 28
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Phylogram from molecular data (legend omitted)
-\end_layout
-
-\begin_layout Standard
-'D is closer to A then to C'
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
 Dendrogram
 \end_layout
 
@@ -807,6 +705,205 @@ Most general term for any tree-like clustering
 	filename DendrogramFoodWeb.jpg
 	lyxscale 40
 	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Dendrogram types
+\end_layout
+
+\begin_layout Itemize
+cladogram
+\end_layout
+
+\begin_layout Itemize
+phylogram
+\end_layout
+
+\begin_layout Itemize
+chronogram
+\end_layout
+
+\begin_layout Itemize
+spindle diagram
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Cladograms: Great Chain Of Being
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Felsenstein, online communication
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+'klados' = branch
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename CladogramHumansBest.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename CladogramHumansBestWeighted.jpg
+	lyxscale 32
+	scale 32
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Cladograms: Man is just a hominid 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename CladogramHumansAmong.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Cladograms
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename CladogramDiagonal.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Phylogram
+\end_layout
+
+\begin_layout Itemize
+'phylon' = tribe, clan, race
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename PhylogramSpecies.jpg
+	lyxscale 40
+	scale 32
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Chronogram
+\end_layout
+
+\begin_layout Itemize
+'chronos' = time
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Chronogram.jpg
+	lyxscale 40
+	scale 32
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Spindle diagram
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://commons.wikimedia.org/wiki/User:Petter_B%C3%B8ckman
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Spindle_diagram.jpg
+	lyxscale 25
+	scale 25
 
 \end_inset
 
@@ -991,178 +1088,6 @@ number of species
 \end_layout
 
 \begin_layout Section
-Cladograms: Great Chain Of Being
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Felsenstein, online communication
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-'klados' = branch
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename CladogramHumansBest.jpg
-	lyxscale 40
-	scale 40
-
-\end_inset
-
- 
-\begin_inset Graphics
-	filename CladogramHumansBestWeighted.jpg
-	lyxscale 32
-	scale 32
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Cladograms: Man is just a hominid 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename CladogramHumansAmong.jpg
-	lyxscale 40
-	scale 40
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Cladograms
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename CladogramDiagonal.jpg
-	lyxscale 40
-	scale 40
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Phylogram
-\end_layout
-
-\begin_layout Itemize
-'phylon' = tribe, clan, race
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename PhylogramSpecies.jpg
-	lyxscale 40
-	scale 32
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Chronogram
-\end_layout
-
-\begin_layout Itemize
-'chronos' = time
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Chronogram.jpg
-	lyxscale 40
-	scale 32
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Spindle diagram
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-http://commons.wikimedia.org/wiki/User:Petter_B%C3%B8ckman
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Spindle_diagram.jpg
-	lyxscale 25
-	scale 25
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
 Quiz
 \end_layout
 
@@ -1204,73 +1129,8 @@ Must be rejected
 
 \end_layout
 
-\begin_layout Section
-Quiz
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename weighted_cladogram.jpg
-	lyxscale 40
-	scale 24
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Phylogram from molecular data (legend omitted)
-\end_layout
-
-\begin_layout Enumerate
-D is closer to A then to C
-\end_layout
-
-\begin_layout Enumerate
-D is as close to A as to C
-\end_layout
-
-\begin_layout Enumerate
-D is closer to C then to A
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
 \begin_layout Chapter
-Other things
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Overview
-\end_layout
-
-\begin_layout Itemize
-Quiz
-\end_layout
-
-\begin_layout Itemize
-Types of things being depicted
-\end_layout
-
-\begin_layout Itemize
-Types of things not being depicted
-\end_layout
-
-\begin_layout Itemize
-Bootstrap values
+What trees show
 \end_layout
 
 \begin_layout Standard
@@ -1282,13 +1142,23 @@ Bootstrap values
 
 \begin_layout Section
 Quiz
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Adapted from Grenfell et al, 2004, Science
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename VirusExtant.jpg
-	lyxscale 40
-	scale 40
+	filename Simplest.jpg
+	lyxscale 30
+	scale 30
 
 \end_inset
 
@@ -1296,7 +1166,7 @@ Quiz
 \end_layout
 
 \begin_layout Standard
-Phylogeny
+Phylogram
 \end_layout
 
 \begin_layout Standard
@@ -1327,11 +1197,11 @@ Quiz
 
 \begin_layout Standard
 Phylogenetic tree of Adh in Drosophila
-\begin_inset Note Note
+\begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Ko at al 2000
+Ko et al, 2003, Journal of molecular evolution
 \end_layout
 
 \end_inset
@@ -1371,13 +1241,14 @@ Drosphila lutescens
 \end_layout
 
 \begin_layout Section
-Types of things being depicted
+Terms
 \end_layout
 
 \begin_layout Itemize
 Phylogeny: hypothesis about the evolutionary history of taxonomic groups
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
 Gene tree: gene sequences from different species
 \end_layout
@@ -1390,6 +1261,7 @@ Phylogenetic tree: phylogeny derived from a gene tree
 Gene genealogy: gene sequences within species
 \end_layout
 
+\end_deeper
 \begin_layout Standard
 \begin_inset Newpage newpage
 \end_inset
@@ -1417,6 +1289,20 @@ Phylograms commonly deal with extant species
 \end_layout
 
 \begin_layout Standard
+Phylogram of current time only
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Adapted from Grenfell et al, 2004, Science
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage newpage
 \end_inset
 
@@ -1434,6 +1320,52 @@ That does not mean nothing is going on!
 \begin_layout Standard
 \begin_inset Graphics
 	filename VirusExtinct.jpg
+	lyxscale 40
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Phylogram of species sampled in time
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Adapted from Grenfell et al, 2004, Science
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Types of things not being depicted
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Adapted from Grenfell et al, 2004, Science
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename GrenfellEtAl2004ScienceInfluenza.png
 	lyxscale 40
 	scale 40
 
@@ -1454,7 +1386,7 @@ Bootstrap values
 \end_layout
 
 \begin_layout Itemize
-Inferring a dendrogram is hard
+Inferring a phylogeny is hard
 \end_layout
 
 \begin_layout Itemize
@@ -1466,7 +1398,7 @@ Bootstrapping shows how often the candates agree
 \end_layout
 
 \begin_layout Itemize
-Threshold for publication: about 70%
+Tip: threshold for publication: about 70%
 \end_layout
 
 \begin_layout Standard
@@ -1494,8 +1426,8 @@ Bootstrap values: generate candidates
 \begin_layout Standard
 \begin_inset Graphics
 	filename Felsenstein2004_20_3a.jpg
-	lyxscale 7
-	scale 15
+	lyxscale 28
+	scale 60
 
 \end_inset
 
@@ -1516,8 +1448,8 @@ Bootstrap values: count agreement
 \begin_layout Standard
 \begin_inset Graphics
 	filename Felsenstein2004_20_3a.jpg
-	lyxscale 7
-	scale 7
+	lyxscale 28
+	scale 28
 
 \end_inset
 
@@ -1533,6 +1465,106 @@ Bootstrap values: count agreement
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Conclusion
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Adapted from Grenfell et al, 2004, Science
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+There can be much going on!
+\end_layout
+
+\begin_layout Itemize
+Need more information
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Simplest.jpg
+	lyxscale 30
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Conclusion
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename KoEtAl2002WithMark.png
+	lyxscale 50
+	scale 25
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Phylogenetic tree of Adh in Drosophila
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ko et al, 2003, Journal of molecular evolution
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In only 68% of the phylogeny candidates, 'mim
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Drosphila mimetica
+\end_layout
+
+\end_inset
+
+ and lut
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Drosphila lutescens
+\end_layout
+
+\end_inset
+
+ are put on the same clade
 \end_layout
 
 \begin_layout Standard
@@ -1579,16 +1611,16 @@ Quiz
 \begin_layout Standard
 \begin_inset Graphics
 	filename ConcertedEvolutionPhylogeny1.jpg
-	lyxscale 10
-	scale 8
+	lyxscale 40
+	scale 32
 
 \end_inset
 
  
 \begin_inset Graphics
 	filename ConcertedEvolutionPhylogeny2.jpg
-	lyxscale 10
-	scale 8
+	lyxscale 40
+	scale 32
 
 \end_inset
 
@@ -2299,11 +2331,11 @@ Conclusions
 \end_layout
 
 \begin_layout Itemize
-It is hard to infer something from a dendrogram
+It is hard to infer something from a tree
 \end_layout
 
 \begin_layout Itemize
-Research is ongoing to infer something from a dendrogram
+Research is ongoing to do inferences on trees
 \end_layout
 
 \begin_layout Itemize
@@ -2312,11 +2344,11 @@ I found it hard to experiment with the simulation to get a better feeling
 \end_layout
 
 \begin_layout Itemize
-I found it hard to draw dendrograms the way I wanted it
+I found it hard to draw trees the way I wanted it
 \end_layout
 
 \begin_layout Itemize
-(it is hard to hard to give an interesting presentation about dendrograms)
+(it is hard to hard to give an interesting presentation about trees)
 \end_layout
 
 \begin_layout Standard
@@ -2410,12 +2442,12 @@ What is this?
 \begin_layout Standard
 \begin_inset Graphics
 	filename Joke.jpg
-	lyxscale 10
-	scale 10
+	lyxscale 40
+	scale 40
 
 \end_inset
 
- 
+
 \end_layout
 
 \begin_layout Standard
@@ -2431,13 +2463,13 @@ What is this?
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename VirusExtant.jpg
-	lyxscale 10
-	scale 10
+	filename Simplest.jpg
+	lyxscale 40
+	scale 40
 
 \end_inset
 
- 
+
 \end_layout
 
 \begin_layout Standard
@@ -2445,6 +2477,29 @@ What is this?
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Grenfell, B.
+ T.; Pybus, O.
+ G.; Gog, J.
+ R.; Wood, J.
+ L.; Daly, J.
+ M.; Mumford, J.
+ A.; Holmes, E.
+ C.
+ (2004).
+ "Unifying the Epidemiological and Evolutionary Dynamics of Pathogens".
+ Science 303 (5656): 327–332.
+ doi:10.1126/science.1090727.
+ PMID 14726583
 \end_layout
 
 \begin_layout Standard
