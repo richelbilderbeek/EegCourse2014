@@ -357,7 +357,7 @@ What can we infer from a tree?
 \end_layout
 
 \begin_layout Section
-Planning
+Overview
 \end_layout
 
 \begin_layout Itemize
@@ -377,11 +377,7 @@ What trees show
 \end_layout
 
 \begin_layout Itemize
-Advanced tree representations of data
-\end_layout
-
-\begin_layout Itemize
-Phylogenies and inferring species communies
+What phylogenies can tell
 \end_layout
 
 \begin_layout Standard
@@ -1620,10 +1616,6 @@ What phylogenies can tell
 \end_layout
 
 \begin_layout Itemize
-Type of selection: no, purifying, stabilizing
-\end_layout
-
-\begin_layout Itemize
 Population growth: constant, exponential
 \end_layout
 
@@ -1636,11 +1628,45 @@ Type of evolutionary force: habitat filtering, competitive exclusion
 \end_layout
 
 \begin_layout Itemize
+Type of selection: no, purifying, stabilizing
+\end_layout
+
+\begin_layout Itemize
 Type of evolution: concerted, divergent, by birth-death process
 \end_layout
 
 \begin_layout Itemize
 Mutation rate
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Mutation rate
+\end_layout
+
+\begin_layout Itemize
+Not all genes have same mutation speed
+\end_layout
+
+\begin_layout Itemize
+Assumes neutral selection
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename MutationSpeed.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1725,6 +1751,143 @@ Exponentially growing
 </cell>
 </row>
 </lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Phylogenies that change
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ConcertedEvolutionPhylogeny1.jpg
+	lyxscale 40
+	scale 32
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename ConcertedEvolutionPhylogeny2.jpg
+	lyxscale 40
+	scale 32
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gene trees of two genes (A and B) in two species (1 and 2) measured at two
+ points in time
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Phylogenies that change
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Example: globin genes
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ConcertedEvolutionExplanationTop.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Phylogenies that change
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ConcertedEvolutionExplanationMiddle.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename ConcertedEvolutionExplanation_t1.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Phylogenies that change
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Example: globin genes
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ConcertedEvolutionExplanation.jpg
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename ConcertedEvolutionExplanation_t2.jpg
+	lyxscale 40
+	scale 40
 
 \end_inset
 
@@ -1883,135 +2046,23 @@ Birth weight
 \end_layout
 
 \begin_layout Section
-Phylogenies that change
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename ConcertedEvolutionPhylogeny1.jpg
-	lyxscale 40
-	scale 32
-
-\end_inset
-
- 
-\begin_inset Graphics
-	filename ConcertedEvolutionPhylogeny2.jpg
-	lyxscale 40
-	scale 32
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Gene trees of two genes (A and B) in two species (1 and 2) measured at two
- points in time
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Phylogenies that change
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Example: globin genes
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename ConcertedEvolutionExplanation.jpg
-	lyxscale 40
-	scale 40
-
-\end_inset
-
-
-\begin_inset Graphics
-	filename ConcertedEvolutionExplanation_t1.jpg
-	lyxscale 40
-	scale 40
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Phylogenies that change
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Example: globin genes
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename ConcertedEvolutionExplanation.jpg
-	lyxscale 40
-	scale 40
-
-\end_inset
-
-
-\begin_inset Graphics
-	filename ConcertedEvolutionExplanation_t2.jpg
-	lyxscale 40
-	scale 40
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
 Type of evolutionary force
 \end_layout
 
 \begin_layout Quote
 [...] the struggle will generally be more severe between species of the same
  genus, when they come into competition with another, then species of distinct
- genera 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Darwin1859"
+ genera
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Darwin, 1859, On the origin of species
+\end_layout
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Standard
@@ -2023,9 +2074,12 @@ key "Darwin1859"
 
 \begin_layout Section
 Type of evolutionary force
-\begin_inset CommandInset citation
-LatexCommand cite
-key "WebbEtAl2002"
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Webb et al, 2002, ?
+\end_layout
 
 \end_inset
 
@@ -2191,16 +2245,22 @@ Random
 
 \begin_layout Section
 Type of evolutionary force
-\begin_inset CommandInset citation
-LatexCommand cite
-key "CavenderBares2004"
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Cavender-Bares, 2004, ?
+\end_layout
 
 \end_inset
 
 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "WebbEtAl2002"
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Webb et al, 2002, ?
+\end_layout
 
 \end_inset
 
@@ -2395,9 +2455,12 @@ Random
 
 \begin_layout Section
 Type of evolutionary force
-\begin_inset CommandInset citation
-LatexCommand cite
-key "CavenderBares2004"
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Cavender-Bares, 2004, ?
+\end_layout
 
 \end_inset
 
@@ -2458,36 +2521,6 @@ In Kirkpatrick and Slatkin (1993), authors reviewed six measures of tree
 \end_layout
 
 \begin_layout Section
-Mutation speed
-\end_layout
-
-\begin_layout Itemize
-Not all genes have same mutation speed
-\end_layout
-
-\begin_layout Itemize
-Assumes neutral selection
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename MutationSpeed.jpg
-	lyxscale 10
-	scale 10
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
 Conclusions
 \end_layout
 
@@ -2519,6 +2552,70 @@ I found it hard to draw trees the way I wanted it
 
 \end_layout
 
+\begin_layout Section
+References
+\end_layout
+
+\begin_layout Itemize
+Ciccarelli, 2006, Science
+\end_layout
+
+\begin_layout Itemize
+Darwin, 1859, On the origin of species
+\end_layout
+
+\begin_layout Itemize
+Ezwa et al, 2013, BMC Genetics
+\end_layout
+
+\begin_layout Itemize
+Felsenstein, 1985, The American Naturalist
+\end_layout
+
+\begin_layout Itemize
+Grenfell, B.
+ T.; Pybus, O.
+ G.; Gog, J.
+ R.; Wood, J.
+ L.; Daly, J.
+ M.; Mumford, J.
+ A.; Holmes, E.
+ C.
+ (2004).
+ "Unifying the Epidemiological and Evolutionary Dynamics of Pathogens".
+ Science 303 (5656): 327–332.
+ doi:10.1126/science.1090727.
+ PMID 14726583
+\end_layout
+
+\begin_layout Itemize
+Haeckel, 1859
+\end_layout
+
+\begin_layout Itemize
+Hartl & Clark, 2007, Principles of population genetics
+\end_layout
+
+\begin_layout Itemize
+Ko et al, 2003, Journal of molecular evolution
+\end_layout
+
+\begin_layout Itemize
+Simonson et al, 2005, PNAS
+\end_layout
+
+\begin_layout Itemize
+Smets & Barkay, 2005, Nature Reviews Microbiology
+\end_layout
+
+\begin_layout Itemize
+Webb et Al, 2002
+\end_layout
+
+\begin_layout Itemize
+Wissler et al., 2011, BMC Evolutionary Biology
+\end_layout
+
 \begin_layout Standard
 \begin_inset Newpage newpage
 \end_inset
@@ -2532,14 +2629,6 @@ Goal
 
 \begin_layout Standard
 Integrating phylogenetic knowledge into studies of commity organisation
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "WebbEtAl2002"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Itemize
@@ -2635,40 +2724,6 @@ What is this?
 
 \begin_layout Standard
 \begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Grenfell, B.
- T.; Pybus, O.
- G.; Gog, J.
- R.; Wood, J.
- L.; Daly, J.
- M.; Mumford, J.
- A.; Holmes, E.
- C.
- (2004).
- "Unifying the Epidemiological and Evolutionary Dynamics of Pathogens".
- Science 303 (5656): 327–332.
- doi:10.1126/science.1090727.
- PMID 14726583
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "/home/richel/GitHubs/References/References"
-options "plain"
-
 \end_inset
 
 
